@@ -2,7 +2,7 @@ body{
     display: flex;
     justify-content: center;
 }
-.main .cell{
+.main .chars{
     background-color: rgb(255, 255, 255);
     box-shadow: 2px 2px 4px black;
     border-radius: 7px;
